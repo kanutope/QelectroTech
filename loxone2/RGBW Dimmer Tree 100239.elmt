@@ -1,0 +1,56 @@
+<definition hotspot_x="35" height="120" link_type="simple" version="0.80" width="70" type="element" hotspot_y="60">
+    <uuid uuid="{5ede4d16-3004-4b64-8482-8ae263a5f9ab}"/>
+    <names>
+        <name lang="en">RGBW Dimmer Tree 100239</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1">RGBW Dimmer</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Loxone</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect y="-45" height="90" ry="0" width="60" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false"/>
+        <rect y="30" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="-15" antialias="false"/>
+        <rect y="30" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="-25" antialias="false"/>
+        <rect y="30" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="5" antialias="false"/>
+        <rect y="30" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="15" antialias="false"/>
+        <rect y="-50" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="-5" antialias="false"/>
+        <rect y="-50" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="-25" antialias="false"/>
+        <rect y="-50" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="-15" antialias="false"/>
+        <rect y="-50" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="5" antialias="false"/>
+        <rect y="-50" height="20" ry="0" width="10" rx="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x="15" antialias="false"/>
+        <text y="-41" color="#000000" x="22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="R" rotation="270"/>
+        <text y="-41" color="#000000" x="12" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="G" rotation="270"/>
+        <text y="-41" color="#000000" x="2" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="B" rotation="270"/>
+        <text y="-40" color="#000000" x="-8" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="W" rotation="270"/>
+        <text y="-31" color="#000000" x="-18" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="+24V" rotation="270"/>
+        <text y="-11" color="#000000" x="-28" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="RGBW 24V&#xa;Dimmer Tree" rotation="0"/>
+        <text y="47" color="#000000" x="-18" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="+24V" rotation="270"/>
+        <text y="46" color="#000000" x="-7.11535" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="GND" rotation="270"/>
+        <text y="46" color="#000000" x="12" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="GR" rotation="270"/>
+        <dynamic_text y="12.75" z="19" Halignment="AlignLeft" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" text_from="UserText" x="-42.5" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" Valignment="AlignTop" text_width="-1" rotation="270">
+            <text>&lt;ID></text>
+        </dynamic_text>
+        <text y="28" color="#000000" x="8" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="Tree" rotation="0"/>
+        <text y="45" color="#000000" x="22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="WH" rotation="270"/>
+        <text y="28" color="#000000" x="-22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="PWR" rotation="0"/>
+        <terminal name="G" y="-52.1241" orientation="n" uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}" x="10"/>
+        <terminal name="Tree" y="52" orientation="s" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" x="10"/>
+        <terminal name="GND" y="52" orientation="s" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" x="-10"/>
+        <terminal name="R" y="-52" orientation="n" uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}" x="20"/>
+        <terminal name="Tree" y="52" orientation="s" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" x="20"/>
+        <terminal name="24V" y="52" orientation="s" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" x="-20"/>
+        <terminal name="B" y="-52" orientation="n" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}" x="0"/>
+        <terminal name="W" y="-52" orientation="n" uuid="{f821f32a-e99d-418c-914f-645c88674b15}" x="-10"/>
+        <terminal name="+24V" y="-52" orientation="n" uuid="{fe9fb1c9-2331-4a7a-991b-e2843f241084}" x="-20"/>
+    </description>
+</definition>

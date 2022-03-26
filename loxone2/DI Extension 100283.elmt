@@ -1,0 +1,66 @@
+<definition hotspot_x="52" width="110" version="0.80" link_type="simple" height="120" type="element" hotspot_y="59">
+    <uuid uuid="{53fc4b99-1672-4aa4-b841-dacbc0c2822d}"/>
+    <names>
+        <name lang="en">DI Extension 100283</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Loxone</elementInformation>
+        <elementInformation name="label" show="1">DI Extension</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect width="105" ry="0" x="-50" y="-45" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" rx="0"/>
+        <rect width="10" ry="0" x="-15" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
+        <rect width="10" ry="0" x="-25" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
+        <rect width="10" ry="0" x="5" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
+        <rect width="10" ry="0" x="15" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
+        <rect width="100" ry="0" x="-47.5" y="-48" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="10" rx="0"/>
+        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="43" y="-44" text="10" rotation="0"/>
+        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="-47" y="-44" text="01" rotation="0"/>
+        <text color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-22" y="-11" text="DI&#xa;Extension" rotation="0"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-18" y="47" text="+24V" rotation="270"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-8" y="46" text="GND" rotation="270"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="12" y="46" text="BL" rotation="270"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="8" y="29" text="Link" rotation="0"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="22" y="46" text="WH" rotation="270"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-22" y="29" text="PWR" rotation="0"/>
+        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="47" y="-39" text="20" rotation="0"/>
+        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="-42" y="-39" text="11" rotation="0"/>
+        <dynamic_text z="19" Halignment="AlignLeft" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" x="-63" y="12" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" text_from="UserText" rotation="270" text_width="-1" Valignment="AlignTop">
+            <text>&lt;ID></text>
+        </dynamic_text>
+        <terminal name="I11" orientation="n" x="-40" y="-50" uuid="{bdcd3f45-127e-439d-a734-58e87546a24b}"/>
+        <terminal name="I18" orientation="n" x="30" y="-50" uuid="{2360eb86-31bc-4d6d-8a1e-08398683ccbd}"/>
+        <terminal name="I20" orientation="n" x="50" y="-50" uuid="{4b19ef9b-ed15-4b75-ac87-94ee4138c440}"/>
+        <terminal name="I16" orientation="n" x="10" y="-50" uuid="{e9867524-8d14-4e1d-9d92-5a014e18eaac}"/>
+        <terminal name="I17" orientation="n" x="20" y="-50" uuid="{1614e587-5f99-4879-8d0b-744bea8bdd33}"/>
+        <terminal name="I13" orientation="n" x="-20" y="-50" uuid="{b246c340-1d94-4541-ada6-6fefb21ae141}"/>
+        <terminal name="I01" orientation="n" x="-45" y="-52" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}"/>
+        <terminal name="I06" orientation="n" x="5" y="-52" uuid="{fbbc46c4-0fe2-4bd7-a370-46fc905da4c8}"/>
+        <terminal name="I05" orientation="n" x="-5" y="-52" uuid="{841c8605-9214-4786-bcad-e8b5904d19cc}"/>
+        <terminal name="I08" orientation="n" x="25" y="-52" uuid="{cdcb901f-9997-4b8c-9074-f424ffb51823}"/>
+        <terminal name="I14" orientation="n" x="-10" y="-50" uuid="{2b486277-5eb8-4040-9d94-b2384e925fb9}"/>
+        <terminal name="I12" orientation="n" x="-30" y="-50" uuid="{dbe425f8-cc5b-4ada-85f1-c2e776b98367}"/>
+        <terminal name="I03" orientation="n" x="-25" y="-52" uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}"/>
+        <terminal name="GND" orientation="s" x="-10" y="52" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}"/>
+        <terminal name="LOX+" orientation="s" x="10" y="52" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}"/>
+        <terminal name="I15" orientation="n" x="0" y="-50" uuid="{1bc5eaaf-07f8-41dd-a67f-85611a8fe689}"/>
+        <terminal name="I02" orientation="n" x="-35" y="-52" uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}"/>
+        <terminal name="I19" orientation="n" x="40" y="-50" uuid="{3af79a4f-68bd-4445-8864-a9344339b484}"/>
+        <terminal name="I10" orientation="n" x="45" y="-52" uuid="{3e51a9c0-b078-4879-adfa-49c13f14ca8b}"/>
+        <terminal name="I07" orientation="n" x="15" y="-52" uuid="{8363bac9-b984-4fd2-91ad-94aff304e988}"/>
+        <terminal name="I04" orientation="n" x="-15" y="-52" uuid="{fd71b538-ccbe-4683-b95c-4f46d05feb97}"/>
+        <terminal name="24V" orientation="s" x="-20" y="52" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}"/>
+        <terminal name="LOX-" orientation="s" x="20" y="52" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}"/>
+        <terminal name="I09" orientation="n" x="35" y="-52" uuid="{af94dd61-91ee-4a6d-a40e-eb5f12e29b61}"/>
+    </description>
+</definition>

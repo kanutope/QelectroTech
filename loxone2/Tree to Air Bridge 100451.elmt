@@ -1,0 +1,41 @@
+<definition hotspot_x="35" height="70" link_type="simple" width="70" version="0.80" type="element" hotspot_y="24">
+    <uuid uuid="{e25950d5-9db0-4710-8f4c-895e53065326}"/>
+    <names>
+        <name lang="en">Tree to Air Bridge 100451</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Loxone</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1">Tree to Air</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y6="23" y7="33" x2="30" x7="-5" antialias="false" y3="33" x1="-30" x5="5" x4="5" x6="-5" y5="23" y4="33" y1="-22" x8="-30" x3="30" y2="-22" y8="33" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="18" height="20" rx="0" ry="0" width="10" antialias="false" x="-15" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <rect y="18" height="20" rx="0" ry="0" width="10" antialias="false" x="-25" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <rect y="18" height="20" rx="0" ry="0" width="10" antialias="false" x="5" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <rect y="18" height="20" rx="0" ry="0" width="10" antialias="false" x="15" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-11" rotation="0" color="#000000" x="-22" text="Tree to Air&#xa;Bridge"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="35" rotation="270" color="#000000" x="-18" text="+24V"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="34" rotation="270" color="#000000" x="-7.11535" text="GND"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="34" rotation="270" color="#000000" x="12" text="GR"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="16" rotation="0" color="#000000" x="8" text="Tree"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="33" rotation="270" color="#000000" x="22" text="WH"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="16" rotation="0" color="#000000" x="-22" text="PWR"/>
+        <dynamic_text font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" text_from="UserText" y="18.75" frame="false" rotation="270" text_width="-1" x="-42.5" z="19" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>&lt;ID></text>
+        </dynamic_text>
+        <terminal y="40" orientation="s" x="10" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" name="Tree"/>
+        <terminal y="40" orientation="s" x="-20" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" name="24V"/>
+        <terminal y="40" orientation="s" x="20" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" name="Tree"/>
+        <terminal y="40" orientation="s" x="-10" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" name="GND"/>
+    </description>
+</definition>

@@ -1,0 +1,39 @@
+<definition hotspot_x="35" height="90" link_type="simple" width="70" version="0.80" type="element" hotspot_y="31">
+    <uuid uuid="{26643343-60ac-467a-9602-70b73e9f6169}"/>
+    <names>
+        <name lang="en">PresenceSensor Tree 100466</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Loxone</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1">Presence Sensor</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="0" rotation="0" color="#000000" x="-20" text="Presence&#xa;Sensor"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="53" rotation="270" color="#000000" x="-22" text="+24V"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="52" rotation="270" color="#000000" x="-11.0839" text="GND"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="53" rotation="270" color="#000000" x="16" text="Tree (G)"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="53" rotation="270" color="#000000" x="26" text="Tree (W/G)"/>
+        <circle y="-26" diameter="52" antialias="false" x="-26" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc y="24" height="49" start="0" angle="91.75" width="19" antialias="true" x="1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc y="26" height="42" start="0" angle="90" width="16" antialias="true" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc y="26" height="42" start="90" angle="90" width="16" antialias="true" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc y="24" height="46" start="90" angle="90" width="19" antialias="true" x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" text_from="UserText" y="13.75" frame="false" rotation="270" text_width="-1" x="-38.5" z="19" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" Valignment="AlignTop" Halignment="AlignLeft">
+            <text>&lt;ID></text>
+        </dynamic_text>
+        <terminal y="52" orientation="s" x="-20" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" name="24V"/>
+        <terminal y="52" orientation="s" x="10" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" name="Tree"/>
+        <terminal y="52" orientation="s" x="-10" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" name="GND"/>
+        <terminal y="52" orientation="s" x="20" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" name="Tree"/>
+    </description>
+</definition>
