@@ -1,0 +1,55 @@
+<definition version="0.80" hotspot_y="54" type="element" hotspot_x="65" width="130" height="110" link_type="simple">
+    <uuid uuid="{e51d6e3b-0b7f-4f44-9855-170c01dcfd89}"/>
+    <names>
+        <name lang="en">Residual-current circuit breaker 4P</name>
+        <name lang="nl">Differentieel 4P</name>
+        <name lang="fr">Disjoncteur de terre 4P</name>
+    </names>
+    <elementInformations/>
+    <informations>
+[NL] Geïnspireerd door het werk van ShadowHunter (www.arei-rgie.be).
+[FR] Inspiré par le travail de ShadowHunter (www.arei-rgie.be).
+[EN] Inspired by the work of ShadowHunter (www.arei-rgie.be).
+    </informations>
+    <description>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40" y2="31" y4="40" x2="-50" x4="-54" x3="-46" x1="-54" y3="40" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="-1" length1="1.5" x2="24.5" end2="none" x1="16.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="-1" length1="1.5" x2="54.5" end2="none" x1="46.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="-20" length1="1.5" x2="-14.5" end2="none" x1="-4.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="-1" length1="1.5" x2="-5.5" end2="none" x1="-13.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="-20" length1="1.5" x2="15.5" end2="none" x1="25.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="-20" length1="1.5" x2="-44.5" end2="none" x1="-34.5" end1="none" length2="1.5" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-12" y2="-20" y4="-11" x2="15.5" x4="12.5" x3="10.5" x1="17.5" y3="-19" antialias="false"/>
+        <rect y="-45" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" width="120" height="90" x="-60" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-12" y2="-20" y4="-11" x2="-14.5" x4="-17.5" x3="-19.5" x1="-12.5" y3="-19" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-44" y2="-20" length1="1.5" x2="-35" end2="none" x1="-35" end1="none" length2="1.5" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-12" y2="-20" y4="-11" x2="-44.5" x4="-47.5" x3="-49.5" x1="-42.5" y3="-19" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="20" y2="-20" length1="1.5" x2="45.5" end2="none" x1="55.5" end1="none" length2="1.5" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-12" y2="-20" y4="-11" x2="45.5" x4="42.5" x3="40.5" x1="47.5" y3="-19" antialias="false"/>
+        <text y="40.5" text="I" rotation="0" color="#000000" font="Sans Serif,12,-1,5,50,0,0,0,0,0" x="-44"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="-1" length1="1.5" x2="-35.5" end2="none" x1="-43.5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-44" y2="-20" length1="1.5" x2="55" end2="none" x1="55" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-44" y2="-20" length1="1.5" x2="-5" end2="none" x1="-5" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-44" y2="-20" length1="1.5" x2="25" end2="none" x1="25" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" y2="45" length1="1.5" x2="-35" end2="none" x1="-35" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" y2="45" length1="1.5" x2="55" end2="none" x1="55" end1="none" length2="1.5" antialias="false"/>
+        <dynamic_text y="-42" z="22" Valignment="AlignVCenter" rotation="0" uuid="{8aa514e5-5825-436d-9e15-f37a72d7b27e}" frame="false" Halignment="AlignLeft" text_from="UserText" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" x="-35">
+            <text>&lt;ID></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text y="27" z="23" Valignment="AlignTop" rotation="0" uuid="{6a1a95e6-b6c6-4665-b71f-eebc554aa958}" frame="false" Halignment="AlignLeft" text_from="UserText" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" x="-32">
+            <text>_ A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" y2="45" length1="1.5" x2="25" end2="none" x1="25" end1="none" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" y2="45" length1="1.5" x2="-5" end2="none" x1="-5" end1="none" length2="1.5" antialias="false"/>
+        <terminal y="-50" name="" uuid="{fd79b45e-368c-46f8-b8c5-291306ef128b}" orientation="n" x="-35"/>
+        <terminal y="50" name="" uuid="{4f0b3661-ddf5-4feb-bb37-dff9c2e0cd5d}" orientation="s" x="55"/>
+        <terminal y="50" name="" uuid="{ce4eee01-00d5-437f-8e9d-124a6c4f58b7}" orientation="s" x="-5"/>
+        <terminal y="-50" name="" uuid="{5147afd6-a2b5-4b97-90a6-287c7e026037}" orientation="n" x="25"/>
+        <terminal y="-50" name="" uuid="{a02141cd-fc7e-4104-bb8f-ad0fa378d1fe}" orientation="n" x="55"/>
+        <terminal y="-50" name="" uuid="{2c865644-8899-43bf-8be2-5ece3fce98fe}" orientation="n" x="-5"/>
+        <terminal y="50" name="" uuid="{a3dd668a-debd-49e6-b8ba-76bff377796d}" orientation="s" x="25"/>
+        <terminal y="50" name="" uuid="{074ec223-3c16-4125-b1f0-78433c79f3a0}" orientation="s" x="-35"/>
+    </description>
+</definition>
