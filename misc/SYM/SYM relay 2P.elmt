@@ -1,0 +1,44 @@
+<definition version="0.80" height="110" width="40" type="element" hotspot_x="20" hotspot_y="54" link_type="simple">
+    <uuid uuid="{bf6a2f7a-3a8a-4dd2-b71e-c14c23ea01a4}"/>
+    <names>
+        <name lang="en">SYM Relay 2P</name>
+        <name lang="fr">SYM Contacteur 2P</name>
+        <name lang="nl">SYM Relay 2P</name>
+    </names>
+    <elementInformations/>
+    <informations>
+[EN] Inspired by the work of ShadowHunter (www.arei-rgie.be).
+[NL] Geïnspireerd door het werk van ShadowHunter (www.arei-rgie.be).
+[FR] Inspiré par le travail de ShadowHunter (www.arei-rgie.be).
+    </informations>
+    <description>
+        <line y1="5" y2="15" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="-18" length1="1.5" x2="-4"/>
+        <rect x="-18" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" y="-45" ry="0" width="36" antialias="false"/>
+        <line y1="-45" y2="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="0" length1="1.5" x2="0"/>
+        <line y1="-45" y2="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="15" length1="1.5" x2="15"/>
+        <line y1="20" y2="45" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="0" length1="1.5" x2="0"/>
+        <line y1="20" y2="45" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="15" length1="1.5" x2="15"/>
+        <line y1="10" y2="10" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="-4" length1="1.5" x2="12"/>
+        <rect x="-18" rx="0" style="line-style:normal;line-weight:thin;filling:none;color:black" height="24" y="-2" ry="0" width="14" antialias="false"/>
+        <line y1="-45" y2="-2" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="-15" length1="1.5" x2="-15"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" x="-16" z="11" y="-46" rotation="0" uuid="{8aa514e5-5825-436d-9e15-f37a72d7b27e}" text_from="UserText" Halignment="AlignLeft" Valignment="AlignVCenter">
+            <text>&lt;ID></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="22" y2="45" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="-15" length1="1.5" x2="-15"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" x="-10" z="12" y="26" rotation="0" uuid="{6a1a95e6-b6c6-4665-b71f-eebc554aa958}" text_from="UserText" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>_ A</text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <polygon y1="-12" x4="-13" y4="-11" y2="-20" style="line-style:normal;line-weight:thin;filling:black;color:black" x3="-15" antialias="false" x1="-8" x2="-10" y3="-19"/>
+        <polygon y1="-12" x4="2" y4="-11" y2="-20" style="line-style:normal;line-weight:thin;filling:black;color:black" x3="0" antialias="false" x1="7" x2="5" y3="-19"/>
+        <line y1="20" y2="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="15" length1="1.5" x2="5"/>
+        <line y1="20" y2="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end1="none" end2="none" antialias="false" x1="0" length1="1.5" x2="-10"/>
+        <terminal orientation="n" x="0" y="-50" uuid="{88b662d2-3cc3-47b7-877f-3ab22ad35ef6}" name=""/>
+        <terminal orientation="n" x="-15" y="-50" uuid="{2fdecc10-5e00-41ec-9316-94a1a41d5f4f}" name=""/>
+        <terminal orientation="n" x="15" y="-50" uuid="{584a6425-020b-489a-8b78-34af992498d6}" name=""/>
+        <terminal orientation="s" x="15" y="50" uuid="{ea1627f9-188f-4618-bc6f-0c67370b531d}" name=""/>
+        <terminal orientation="s" x="0" y="50" uuid="{f812faea-6eb1-4ff6-8ad2-197b1bbdd72e}" name=""/>
+        <terminal orientation="s" x="-15" y="50" uuid="{ad9c77bb-df98-43ff-a250-03868bf2a633}" name=""/>
+    </description>
+</definition>

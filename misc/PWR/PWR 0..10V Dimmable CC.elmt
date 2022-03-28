@@ -1,0 +1,51 @@
+<definition height="110" link_type="simple" version="0.80" hotspot_y="54" hotspot_x="35" type="element" width="70">
+    <uuid uuid="{0cf1230d-5a52-434f-ba8b-a94636cebc38}"/>
+    <names>
+        <name lang="en">PWR 0..10V CC Dimmable</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1">0..10V CC Dimmer</elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Loxone</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" antialias="false" y="-45" x="-30" ry="0" width="60" rx="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="28" x="-25" ry="0" width="20" rx="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="28" x="5" ry="0" width="10" rx="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="28" x="15" ry="0" width="10" rx="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="-48" x="1" ry="0" width="8" rx="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="-48" x="-9" ry="0" width="8" rx="0"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-31" x="7" color="#000000" text="CC+"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-31" x="-3" color="#000000" text="CC-"/>
+        <text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-11" x="-22" color="#000000" text="0..10V CC&#xa;Dimmer"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="44" x="12" color="#000000" text="GND"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="27" x="6" color="#000000" text="0..10V"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="44" x="22" color="#000000" text="INP"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="27" x="-20" color="#000000" text="AC"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="90" antialias="true" y="34" x="-22" angle="85.75" width="6"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="0" antialias="true" y="34" x="-21" angle="90" width="6"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" height="6" start="270" antialias="true" y="35" x="-14" angle="89.1875" width="6"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" height="7" start="180" antialias="true" y="34" x="-15" angle="90" width="7"/>
+        <dynamic_text rotation="0" text_from="UserText" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" z="18" Halignment="AlignLeft" text_width="-1" uuid="{023bd469-6a97-4682-ace7-985bd247d3de}" y="-3" Valignment="AlignTop" x="-25">
+            <text>&lt;n> mA</text>
+        </dynamic_text>
+        <dynamic_text rotation="270" text_from="UserText" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" z="19" Halignment="AlignLeft" text_width="-1" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" y="12" Valignment="AlignTop" x="-46">
+            <text>&lt;ID></text>
+        </dynamic_text>
+        <terminal orientation="n" name="CC-" uuid="{f821f32a-e99d-418c-914f-645c88674b15}" y="-50" x="-5"/>
+        <terminal orientation="n" name="CC+" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}" y="-50" x="5"/>
+        <terminal orientation="s" name="LOX+" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" y="50" x="10"/>
+        <terminal orientation="s" name="LOX-" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" y="50" x="20"/>
+        <terminal orientation="s" name="24V" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" y="50" x="-20"/>
+        <terminal orientation="s" name="GND" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" y="50" x="-10"/>
+    </description>
+</definition>
