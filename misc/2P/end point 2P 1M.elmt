@@ -1,0 +1,22 @@
+<definition width="40" version="0.80" hotspot_x="20" type="element" link_type="simple" hotspot_y="11" height="30">
+    <uuid uuid="{0b9f98d9-5265-4c92-926d-58a05eead1a5}"/>
+    <names>
+        <name lang="nl">Eindpunt 2P 1M</name>
+        <name lang="fr">Finalité 2P 1M</name>
+        <name lang="en">End point 2P 1M</name>
+    </names>
+    <elementInformations/>
+    <informations>
+Used to label 'end points' of various devices like circuit breakers and relays.
+    </informations>
+    <description>
+        <line length2="1.5" y1="-9" end2="none" x2="15" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" y2="-9" x1="-15" end1="none" length1="1.5"/>
+        <dynamic_text y="-9" Valignment="AlignVCenter" z="2" text_from="UserText" x="-21" rotation="0" text_width="-1" uuid="{8aa514e5-5825-436d-9e15-f37a72d7b27e}" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" frame="false">
+            <text>&lt;label></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length2="1.5" y1="9" end2="none" x2="15" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" y2="9" x1="-15" end1="none" length1="1.5"/>
+        <terminal y="14" name="" x="-5" uuid="{f812faea-6eb1-4ff6-8ad2-197b1bbdd72e}" orientation="s"/>
+        <terminal y="14" name="" x="5" uuid="{ea1627f9-188f-4618-bc6f-0c67370b531d}" orientation="s"/>
+    </description>
+</definition>

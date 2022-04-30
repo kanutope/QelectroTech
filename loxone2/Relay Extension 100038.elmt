@@ -1,99 +1,99 @@
-<definition hotspot_x="122" version="0.80" link_type="simple" width="250" type="element" hotspot_y="59" height="120">
-    <uuid uuid="{ed3245ee-9ac5-4ef5-87d5-e0a9ac992fa3}"/>
+<definition type="element" link_type="simple" width="280" hotspot_y="59" height="120" hotspot_x="140" version="0.80">
+    <uuid uuid="{8949db21-a3cb-4119-a502-ee7e54318490}"/>
     <names>
         <name lang="en">Relay Extension 100038</name>
     </names>
     <elementInformations>
-        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
-        <elementInformation show="1" name="description"></elementInformation>
-        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
-        <elementInformation show="1" name="plant"></elementInformation>
-        <elementInformation show="1" name="supplier"></elementInformation>
-        <elementInformation show="1" name="comment"></elementInformation>
-        <elementInformation show="1" name="manufacturer">Loxone</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
         <elementInformation show="1" name="label">Relay Extension</elementInformation>
         <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Loxone</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
         <elementInformation show="1" name="unity"></elementInformation>
-        <elementInformation show="1" name="quantity"></elementInformation>
     </elementInformations>
     <informations></informations>
     <description>
-        <text x="10" y="27" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Digital Outputs (relays)" color="#000000"/>
-        <rect x="-120" y="-45" ry="0" antialias="false" width="245" rx="0" height="90" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect x="-105" y="30" ry="0" antialias="false" width="10" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-115" y="30" ry="0" antialias="false" width="10" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-85" y="30" ry="0" antialias="false" width="10" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-75" y="30" ry="0" antialias="false" width="10" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="0" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-25" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="50" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="25" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="75" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-75" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="100" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-50" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="-25" y="30" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="0" y="-50.1241" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="25" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="50" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <dynamic_text x="-133" y="19" z="19" text_from="UserText" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" rotation="270" Valignment="AlignTop" text_width="-1" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" frame="false" Halignment="AlignLeft">
+        <text y="27" x="10" color="#000000" text="Digital Outputs (relays)" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="270" y="-45" x="-135" height="90" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="10" y="30" x="-105" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="10" y="30" x="-115" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="10" y="30" x="-85" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="10" y="30" x="-75" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="0" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="-25" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="50" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="25" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="75" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="-75" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="100" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="-50" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="30" x="-25" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50.1241" x="0" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="25" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="50" height="20" rx="0" ry="0"/>
+        <dynamic_text uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" text_from="UserText" y="19" x="-133" z="19" frame="false" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" rotation="270">
             <text>&lt;ID></text>
         </dynamic_text>
-        <rect x="75" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <rect x="100" y="-50" ry="0" antialias="false" width="20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
-        <text x="105" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q14" color="#000000"/>
-        <text x="80" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q13" color="#000000"/>
-        <text x="55" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q12" color="#000000"/>
-        <text x="30" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q11" color="#000000"/>
-        <text x="5" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q10" color="#000000"/>
-        <text x="-20" y="42" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q9" color="#000000"/>
-        <text x="105" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q8" color="#000000"/>
-        <text x="80" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q7" color="#000000"/>
-        <text x="55" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q6" color="#000000"/>
-        <text x="30" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q5" color="#000000"/>
-        <text x="5" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q4" color="#000000"/>
-        <text x="-20" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q3" color="#000000"/>
-        <text x="-45" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q2" color="#000000"/>
-        <text x="-70" y="-39" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Q1" color="#000000"/>
-        <text x="-20" y="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="LOXONE&#xa;Relay Extension" color="#000000"/>
-        <text x="-108" y="47" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="+24V" color="#000000"/>
-        <text x="-97" y="46" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="GND" color="#000000"/>
-        <text x="-78" y="45" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="BL" color="#000000"/>
-        <text x="-15" y="-22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Digital Outputs (relays)" color="#000000"/>
-        <text x="-81" y="28" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="Link" color="#000000"/>
-        <text x="-68" y="46" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="WH" color="#000000"/>
-        <text x="-112" y="28" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="PWR" color="#000000"/>
-        <terminal x="-100" y="52" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" orientation="s" name="GND"/>
-        <terminal x="115" y="-52" uuid="{eadef3d1-1ee0-453d-be30-a626e05adb6c}" orientation="n" name="Q8.2"/>
-        <terminal x="-10" y="52" uuid="{cef5b4d0-04b8-4aed-bd71-3a1b2cd54630}" orientation="s" name="Q9.2"/>
-        <terminal x="5" y="52" uuid="{1edd6cf6-3473-4fe3-90fd-5a5efc9c9571}" orientation="s" name="Q10.1"/>
-        <terminal x="90" y="-52" uuid="{c2da0082-6dfc-484e-8528-613c893337aa}" orientation="n" name="Q7.2"/>
-        <terminal x="-35" y="-52" uuid="{1b2f05b7-4a77-43bf-948d-427426c54c52}" orientation="n" name="Q2.2"/>
-        <terminal x="15" y="-52" uuid="{542d61a5-4d14-487c-9c70-44f3c77baa16}" orientation="n" name="Q4.2"/>
-        <terminal x="105" y="52" uuid="{ae2663f4-1e36-478e-8f3a-d9bd8fece43d}" orientation="s" name="Q14.1"/>
-        <terminal x="-20" y="52" uuid="{7dede85c-850f-450b-aa5b-3ee6a5486885}" orientation="s" name="Q9.1"/>
-        <terminal x="55" y="52" uuid="{ce457f9b-2e5f-40e9-8e4f-416d0d4476b9}" orientation="s" name="Q12.1"/>
-        <terminal x="-60" y="-52" uuid="{4bd57e7f-314c-4047-90b8-9931a3db23a1}" orientation="n" name="Q1.2"/>
-        <terminal x="-80" y="52" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" orientation="s" name="LOX+"/>
-        <terminal x="55" y="-52" uuid="{92938626-ac3d-44e1-9128-0ce73f98956a}" orientation="n" name="Q6.1"/>
-        <terminal x="65" y="-52" uuid="{b289cd36-2ad4-4667-a5cb-775e0d90c365}" orientation="n" name="Q6.2"/>
-        <terminal x="5" y="-52" uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}" orientation="n" name="Q4.1"/>
-        <terminal x="80" y="52" uuid="{02665b65-eabb-450f-abd5-90645dc6e7ca}" orientation="s" name="Q13.1"/>
-        <terminal x="40" y="-52" uuid="{5cb72fa2-542b-49c4-b1a6-30709a97ac88}" orientation="n" name="Q5.2"/>
-        <terminal x="65" y="52" uuid="{7e01ae40-a8bb-49ba-bede-7665b0f74832}" orientation="s" name="Q12.2"/>
-        <terminal x="-70" y="-52" uuid="{fe9fb1c9-2331-4a7a-991b-e2843f241084}" orientation="n" name="Q1.1"/>
-        <terminal x="-45" y="-52" uuid="{f821f32a-e99d-418c-914f-645c88674b15}" orientation="n" name="Q2.1"/>
-        <terminal x="-70" y="52" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" orientation="s" name="LOX-"/>
-        <terminal x="15" y="52" uuid="{764363d0-10dd-40e1-b266-39996c871485}" orientation="s" name="Q10.2"/>
-        <terminal x="105" y="-52" uuid="{6d82b4c3-091b-42b7-8143-29582b50dc44}" orientation="n" name="Q8.1"/>
-        <terminal x="90" y="52" uuid="{039b3aaa-8c7e-4649-adb3-0708ca5da1ca}" orientation="s" name="Q13.2"/>
-        <terminal x="115" y="52" uuid="{b6e28efc-bfa4-4954-b07b-6f62fde1b33a}" orientation="s" name="Q14.2"/>
-        <terminal x="30" y="52" uuid="{75846e67-e579-4976-a474-b908ba3bbc14}" orientation="s" name="Q11.1"/>
-        <terminal x="-110" y="52" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" orientation="s" name="24V"/>
-        <terminal x="30" y="-52" uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}" orientation="n" name="Q5.1"/>
-        <terminal x="80" y="-52" uuid="{cc0c82f1-ffb9-4cf4-b692-cd037ef78ebd}" orientation="n" name="Q7.1"/>
-        <terminal x="-10" y="-52" uuid="{9feb8f4e-0b84-4f49-b4af-6b8b125cfbd7}" orientation="n" name="Q3.2"/>
-        <terminal x="-20" y="-52" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}" orientation="n" name="Q3.1"/>
-        <terminal x="40" y="52" uuid="{18dc377e-1d09-4ff7-b6a2-4c3d0cd98104}" orientation="s" name="Q11.2"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="75" height="20" rx="0" ry="0"/>
+        <rect antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" width="20" y="-50" x="100" height="20" rx="0" ry="0"/>
+        <text y="42" x="105" color="#000000" text="Q14" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="42" x="80" color="#000000" text="Q13" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="42" x="55" color="#000000" text="Q12" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="42" x="30" color="#000000" text="Q11" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="42" x="5" color="#000000" text="Q10" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="42" x="-20" color="#000000" text="Q9" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="105" color="#000000" text="Q8" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="80" color="#000000" text="Q7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="55" color="#000000" text="Q6" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="30" color="#000000" text="Q5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="5" color="#000000" text="Q4" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="-20" color="#000000" text="Q3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="-45" color="#000000" text="Q2" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="-39" x="-70" color="#000000" text="Q1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="0" x="-20" color="#000000" text="LOXONE&#xa;Relay Extension" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="47" x="-108" color="#000000" text="+24V" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text y="46" x="-97" color="#000000" text="GND" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text y="45" x="-78" color="#000000" text="BL" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text y="-22" x="-15" color="#000000" text="Digital Outputs (relays)" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="28" x="-81" color="#000000" text="Link" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text y="46" x="-68" color="#000000" text="WH" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text y="28" x="-112" color="#000000" text="PWR" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal uuid="{b289cd36-2ad4-4667-a5cb-775e0d90c365}" orientation="n" y="-52" name="Q6.2" x="65"/>
+        <terminal uuid="{6d82b4c3-091b-42b7-8143-29582b50dc44}" orientation="n" y="-52" name="Q8.1" x="105"/>
+        <terminal uuid="{7e01ae40-a8bb-49ba-bede-7665b0f74832}" orientation="s" y="52" name="Q12.2" x="65"/>
+        <terminal uuid="{7dede85c-850f-450b-aa5b-3ee6a5486885}" orientation="s" y="52" name="Q9.1" x="-20"/>
+        <terminal uuid="{ae2663f4-1e36-478e-8f3a-d9bd8fece43d}" orientation="s" y="52" name="Q14.1" x="105"/>
+        <terminal uuid="{f821f32a-e99d-418c-914f-645c88674b15}" orientation="n" y="-52" name="Q2.1" x="-45"/>
+        <terminal uuid="{18dc377e-1d09-4ff7-b6a2-4c3d0cd98104}" orientation="s" y="52" name="Q11.2" x="40"/>
+        <terminal uuid="{fe9fb1c9-2331-4a7a-991b-e2843f241084}" orientation="n" y="-52" name="Q1.1" x="-70"/>
+        <terminal uuid="{1b2f05b7-4a77-43bf-948d-427426c54c52}" orientation="n" y="-52" name="Q2.2" x="-35"/>
+        <terminal uuid="{75846e67-e579-4976-a474-b908ba3bbc14}" orientation="s" y="52" name="Q11.1" x="30"/>
+        <terminal uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}" orientation="n" y="-52" name="Q3.1" x="-20"/>
+        <terminal uuid="{ce457f9b-2e5f-40e9-8e4f-416d0d4476b9}" orientation="s" y="52" name="Q12.1" x="55"/>
+        <terminal uuid="{9feb8f4e-0b84-4f49-b4af-6b8b125cfbd7}" orientation="n" y="-52" name="Q3.2" x="-10"/>
+        <terminal uuid="{542d61a5-4d14-487c-9c70-44f3c77baa16}" orientation="n" y="-52" name="Q4.2" x="15"/>
+        <terminal uuid="{92938626-ac3d-44e1-9128-0ce73f98956a}" orientation="n" y="-52" name="Q6.1" x="55"/>
+        <terminal uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" orientation="s" y="52" name="LOX+" x="-80"/>
+        <terminal uuid="{764363d0-10dd-40e1-b266-39996c871485}" orientation="s" y="52" name="Q10.2" x="15"/>
+        <terminal uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" orientation="s" y="52" name="24V" x="-110"/>
+        <terminal uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}" orientation="n" y="-52" name="Q4.1" x="5"/>
+        <terminal uuid="{02665b65-eabb-450f-abd5-90645dc6e7ca}" orientation="s" y="52" name="Q13.1" x="80"/>
+        <terminal uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" orientation="s" y="52" name="LOX-" x="-70"/>
+        <terminal uuid="{5cb72fa2-542b-49c4-b1a6-30709a97ac88}" orientation="n" y="-52" name="Q5.2" x="40"/>
+        <terminal uuid="{c2da0082-6dfc-484e-8528-613c893337aa}" orientation="n" y="-52" name="Q7.2" x="90"/>
+        <terminal uuid="{039b3aaa-8c7e-4649-adb3-0708ca5da1ca}" orientation="s" y="52" name="Q13.2" x="90"/>
+        <terminal uuid="{cc0c82f1-ffb9-4cf4-b692-cd037ef78ebd}" orientation="n" y="-52" name="Q7.1" x="80"/>
+        <terminal uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}" orientation="n" y="-52" name="Q5.1" x="30"/>
+        <terminal uuid="{4bd57e7f-314c-4047-90b8-9931a3db23a1}" orientation="n" y="-52" name="Q1.2" x="-60"/>
+        <terminal uuid="{b6e28efc-bfa4-4954-b07b-6f62fde1b33a}" orientation="s" y="52" name="Q14.2" x="115"/>
+        <terminal uuid="{1edd6cf6-3473-4fe3-90fd-5a5efc9c9571}" orientation="s" y="52" name="Q10.1" x="5"/>
+        <terminal uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" orientation="s" y="52" name="GND" x="-100"/>
+        <terminal uuid="{eadef3d1-1ee0-453d-be30-a626e05adb6c}" orientation="n" y="-52" name="Q8.2" x="115"/>
+        <terminal uuid="{cef5b4d0-04b8-4aed-bd71-3a1b2cd54630}" orientation="s" y="52" name="Q9.2" x="-10"/>
     </description>
 </definition>

@@ -18,49 +18,48 @@
     </elementInformations>
     <informations></informations>
     <description>
-        <rect width="105" ry="0" x="-50" y="-45" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" rx="0"/>
-        <rect width="10" ry="0" x="-15" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
-        <rect width="10" ry="0" x="-25" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
-        <rect width="10" ry="0" x="5" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
-        <rect width="10" ry="0" x="15" y="30" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0"/>
-        <rect width="100" ry="0" x="-47.5" y="-48" antialias="false" style="line-style:normal;line-weight:normal;filling:white;color:black" height="10" rx="0"/>
-        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="43" y="-44" text="10" rotation="0"/>
-        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="-47" y="-44" text="01" rotation="0"/>
-        <text color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-22" y="-11" text="DI&#xa;Extension" rotation="0"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-18" y="47" text="+24V" rotation="270"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-8" y="46" text="GND" rotation="270"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="12" y="46" text="BL" rotation="270"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="8" y="29" text="Link" rotation="0"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="22" y="46" text="WH" rotation="270"/>
-        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-22" y="29" text="PWR" rotation="0"/>
-        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="47" y="-39" text="20" rotation="0"/>
-        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="-42" y="-39" text="11" rotation="0"/>
-        <dynamic_text z="19" Halignment="AlignLeft" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" x="-63" y="12" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" text_from="UserText" rotation="270" text_width="-1" Valignment="AlignTop">
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" antialias="false" y="-45" x="-30" ry="0" width="60" rx="0"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="-48" x="21" color="#000000" text="10"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="30" x="-15" ry="0" width="10" rx="0"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="-48" x="-31" color="#000000" text="01"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="30" x="-25" ry="0" width="10" rx="0"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="-41" x="24" color="#000000" text="20"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="30" x="5" ry="0" width="10" rx="0"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="-41" x="-27" color="#000000" text="11"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" antialias="false" y="30" x="15" ry="0" width="10" rx="0"/>
+        <text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-11" x="-21" color="#000000" text="DI&#xa;Extension"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="47" x="-18" color="#000000" text="+24V"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="46" x="-8" color="#000000" text="GND"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="45" x="12" color="#000000" text="BL"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="29" x="8" color="#000000" text="Link"/>
+        <text rotation="270" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="45" x="22" color="#000000" text="WH"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="29" x="-21" color="#000000" text="PWR"/>
+        <dynamic_text rotation="270" text_from="UserText" font="Tahoma,7,-1,5,50,0,0,0,0,0,Regular" frame="false" z="19" Halignment="AlignLeft" text_width="-1" uuid="{650afc00-2473-4c12-b713-8cf605a4af75}" y="12" Valignment="AlignTop" x="-42">
             <text>&lt;ID></text>
         </dynamic_text>
-        <terminal name="I11" orientation="n" x="-40" y="-50" uuid="{bdcd3f45-127e-439d-a734-58e87546a24b}"/>
-        <terminal name="I18" orientation="n" x="30" y="-50" uuid="{2360eb86-31bc-4d6d-8a1e-08398683ccbd}"/>
-        <terminal name="I20" orientation="n" x="50" y="-50" uuid="{4b19ef9b-ed15-4b75-ac87-94ee4138c440}"/>
-        <terminal name="I16" orientation="n" x="10" y="-50" uuid="{e9867524-8d14-4e1d-9d92-5a014e18eaac}"/>
-        <terminal name="I17" orientation="n" x="20" y="-50" uuid="{1614e587-5f99-4879-8d0b-744bea8bdd33}"/>
-        <terminal name="I13" orientation="n" x="-20" y="-50" uuid="{b246c340-1d94-4541-ada6-6fefb21ae141}"/>
-        <terminal name="I01" orientation="n" x="-45" y="-52" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}"/>
-        <terminal name="I06" orientation="n" x="5" y="-52" uuid="{fbbc46c4-0fe2-4bd7-a370-46fc905da4c8}"/>
-        <terminal name="I05" orientation="n" x="-5" y="-52" uuid="{841c8605-9214-4786-bcad-e8b5904d19cc}"/>
-        <terminal name="I08" orientation="n" x="25" y="-52" uuid="{cdcb901f-9997-4b8c-9074-f424ffb51823}"/>
-        <terminal name="I14" orientation="n" x="-10" y="-50" uuid="{2b486277-5eb8-4040-9d94-b2384e925fb9}"/>
-        <terminal name="I12" orientation="n" x="-30" y="-50" uuid="{dbe425f8-cc5b-4ada-85f1-c2e776b98367}"/>
-        <terminal name="I03" orientation="n" x="-25" y="-52" uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}"/>
-        <terminal name="GND" orientation="s" x="-10" y="52" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}"/>
-        <terminal name="LOX+" orientation="s" x="10" y="52" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}"/>
-        <terminal name="I15" orientation="n" x="0" y="-50" uuid="{1bc5eaaf-07f8-41dd-a67f-85611a8fe689}"/>
-        <terminal name="I02" orientation="n" x="-35" y="-52" uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}"/>
-        <terminal name="I19" orientation="n" x="40" y="-50" uuid="{3af79a4f-68bd-4445-8864-a9344339b484}"/>
-        <terminal name="I10" orientation="n" x="45" y="-52" uuid="{3e51a9c0-b078-4879-adfa-49c13f14ca8b}"/>
-        <terminal name="I07" orientation="n" x="15" y="-52" uuid="{8363bac9-b984-4fd2-91ad-94aff304e988}"/>
-        <terminal name="I04" orientation="n" x="-15" y="-52" uuid="{fd71b538-ccbe-4683-b95c-4f46d05feb97}"/>
-        <terminal name="24V" orientation="s" x="-20" y="52" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}"/>
-        <terminal name="LOX-" orientation="s" x="20" y="52" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}"/>
-        <terminal name="I09" orientation="n" x="35" y="-52" uuid="{af94dd61-91ee-4a6d-a40e-eb5f12e29b61}"/>
+        <terminal orientation="n" name="DI01" uuid="{bf2df6d9-7353-4cf2-a227-cd0bc515bcc3}" y="-50" x="-25"/>
+        <terminal orientation="n" name="DI02" uuid="{846164aa-f482-4869-8d5e-639e546c06d4}" y="-50" x="-20"/>
+        <terminal orientation="n" name="DI03" uuid="{f821f32a-e99d-418c-914f-645c88674b15}" y="-50" x="-15"/>
+        <terminal orientation="n" name="DI04" uuid="{e97a93b3-cb75-4dbf-bfa3-d2e9a3bec16e}" y="-50" x="-10"/>
+        <terminal orientation="n" name="DI05" uuid="{ab180d23-036f-4b76-aa55-a0617fd800b8}" y="-50" x="-5"/>
+        <terminal orientation="n" name="DI06" uuid="{b4550ee0-20ca-4e6d-9176-981410b4aee6}" y="-50" x="0"/>
+        <terminal orientation="n" name="DI07" uuid="{b2f461a2-e584-43ef-b278-39c650acf76f}" y="-50" x="5"/>
+        <terminal orientation="n" name="DI08" uuid="{3d5e99d3-bf4b-4c19-a408-ab3206e7eec8}" y="-50" x="10"/>
+        <terminal orientation="n" name="DI09" uuid="{e76a6331-d907-4113-b897-b7b0cbb387d8}" y="-50" x="15"/>
+        <terminal orientation="n" name="DI10" uuid="{f78bc06b-941d-4a1b-8f9e-37414ab08119}" y="-50" x="20"/>
+        <terminal orientation="n" name="DI11" uuid="{ffb9358c-692c-4ede-8c91-050ceaad6a54}" y="-47" x="-22.5"/>
+        <terminal orientation="n" name="DI12" uuid="{65ed63f0-0b43-4599-b148-bc5e7bce4e4a}" y="-47" x="-17.5"/>
+        <terminal orientation="n" name="DI13" uuid="{a5186a0b-12c3-4fe9-a7ca-6dafc6035737}" y="-47" x="-12.5"/>
+        <terminal orientation="n" name="DI14" uuid="{707a0aa1-3500-4a70-b482-878148734927}" y="-47" x="-7.5"/>
+        <terminal orientation="n" name="DI15" uuid="{24bda9de-8276-4bdf-8dfb-9d3c8f4ed967}" y="-47" x="-2.5"/>
+        <terminal orientation="n" name="DI16" uuid="{eb608801-b22f-4e91-9d79-31b062bb639b}" y="-47" x="2.5"/>
+        <terminal orientation="n" name="DI17" uuid="{c8b8db62-848c-4597-b4dc-57ee42271509}" y="-47" x="7.5"/>
+        <terminal orientation="n" name="DI18" uuid="{0e7f0a0d-3c73-4dac-9dd4-a28a55cc6d46}" y="-47" x="12.5"/>
+        <terminal orientation="n" name="DI19" uuid="{9da75e21-0643-4e67-a176-1b7b6e9edbd9}" y="-47" x="17.5"/>
+        <terminal orientation="n" name="DI20" uuid="{7247ca16-3130-4b93-846c-1fbaae570590}" y="-47" x="22.5"/>
+        <terminal orientation="s" name="24V" uuid="{344ef832-ca6f-459a-acd8-62a1b07687e8}" y="52" x="-20"/>
+        <terminal orientation="s" name="GND" uuid="{457bd9b9-670a-4f19-918b-30dc7fbe253c}" y="52" x="-10"/>
+        <terminal orientation="s" name="LOX+" uuid="{fa7ea14a-74b5-4139-8cd8-343844a00794}" y="52" x="10"/>
+        <terminal orientation="s" name="LOX-" uuid="{2ed6de70-aff6-4335-ae3b-a8c5ff3b34ea}" y="52" x="20"/>
     </description>
 </definition>

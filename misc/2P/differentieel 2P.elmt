@@ -14,11 +14,11 @@
     <description>
         <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="31" x4="-24" x2="-20" x3="-16" x1="-24" y3="40" antialias="false" y1="40" y4="40"/>
         <rect style="line-style:normal;line-weight:normal;filling:none;color:black" height="90" antialias="false" y="-45" x="-30" ry="0" width="60" rx="0"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-20" x2="-5" end1="none" x1="-5" antialias="false" y1="-45" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" x2="-5" end1="none" x1="-5" antialias="false" y1="-35" length1="1.5" end2="none"/>
         <text rotation="0" font="Sans Serif,12,-1,5,50,0,0,0,0,0" y="40.5" x="-14" color="#000000" text="I"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-20" x2="25" end1="none" x1="25" antialias="false" y1="-45" length1="1.5" end2="none"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="45" x2="-5" end1="none" x1="-5" antialias="false" y1="20" length1="1.5" end2="none"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="45" x2="25" end1="none" x1="25" antialias="false" y1="20" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" x2="25" end1="none" x1="25" antialias="false" y1="-35" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="35" x2="-5" end1="none" x1="-5" antialias="false" y1="20" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="35" x2="25" end1="none" x1="25" antialias="false" y1="20" length1="1.5" end2="none"/>
         <dynamic_text rotation="0" text_from="UserText" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" z="8" Halignment="AlignLeft" text_width="-1" uuid="{8aa514e5-5825-436d-9e15-f37a72d7b27e}" y="-42" Valignment="AlignVCenter" x="-5">
             <text>&lt;ID></text>
             <info_name>label</info_name>
@@ -27,12 +27,12 @@
             <text>_ A</text>
             <info_name>comment</info_name>
         </dynamic_text>
-        <polygon style="line-style:normal;line-weight:thin;filling:black;color:black" y2="-20" x4="-18" x2="-15" x3="-20" x1="-13" y3="-19" antialias="false" y1="-12" y4="-11"/>
-        <polygon style="line-style:normal;line-weight:thin;filling:black;color:black" y2="-20" x4="12" x2="15" x3="10" x1="17" y3="-19" antialias="false" y1="-12" y4="-11"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-1" x2="24.0" end1="none" x1="16.0" antialias="false" y1="1" length1="1.5" end2="none"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-1" x2="-6.0" end1="none" x1="-14.0" antialias="false" y1="1" length1="1.5" end2="none"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-20" x2="15.0" end1="none" x1="25.0" antialias="false" y1="20" length1="1.5" end2="none"/>
-        <line length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y2="-20" x2="-15.0" end1="none" x1="-5.0" antialias="false" y1="20" length1="1.5" end2="none"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y2="-20" x4="-18" x2="-15" x3="-20" x1="-13" y3="-19" antialias="false" y1="-12" y4="-11"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y2="-20" x4="12" x2="15" x3="10" x1="17" y3="-19" antialias="false" y1="-12" y4="-11"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-1" x2="24.0" end1="none" x1="16.0" antialias="false" y1="1" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-1" x2="-6.0" end1="none" x1="-14.0" antialias="false" y1="1" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" x2="15.0" end1="none" x1="25.0" antialias="false" y1="20" length1="1.5" end2="none"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-20" x2="-15.0" end1="none" x1="-5.0" antialias="false" y1="20" length1="1.5" end2="none"/>
         <terminal orientation="s" name="" uuid="{074ec223-3c16-4125-b1f0-78433c79f3a0}" y="50" x="-5"/>
         <terminal orientation="n" name="" uuid="{2c865644-8899-43bf-8be2-5ece3fce98fe}" y="-50" x="25"/>
         <terminal orientation="s" name="" uuid="{ce4eee01-00d5-437f-8e9d-124a6c4f58b7}" y="50" x="25"/>
